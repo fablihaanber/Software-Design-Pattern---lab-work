@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui>
+  <Button value="Click on me" X="150" Y="150" />
+  <EditBox value="Some text to edit" X="250" Y="350" />
+  <TextBox value="Some text to see" X="150" Y="400" />
+  
+</ui>

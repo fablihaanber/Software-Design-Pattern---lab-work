@@ -1,0 +1,4 @@
+Button, Click on me, X: 350, Y: 400
+EditBox, Some text to edit, X: 350, Y: 550
+Button, Click on me, X: 450, Y: 200
+TextBox, Some Text to see, X: 550, Y: 450
